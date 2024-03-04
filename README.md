@@ -30,10 +30,20 @@
 ---
 
 ### 🔗Contact Me
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-ashraf-343333254)  
-<a href="https://codeforces.com/profile/Shahd_Ashraf_F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahd_Ashraf_F " height="32" width="40" /></a>  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahdashraf396@gmail.com)](mailto:shahdashraf396@gmail.com)  
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/shahd.ashraf.967422)
+<a href="https://www.linkedin.com/in/shahd-ashraf-343333254" target="blank">
+  <img " alt="Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
+</a>
+<br>
+<a href="mailto:shahdashraf396@gmail.com" target="blank">
+<img width="50"  height="50" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" alt="gmail"/></a>
+<br>
+<a target="blank" src="https://www.facebook.com/shahd.ashraf.967422">
+  <img  alt="anmolpant's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
+</a>
+
+<a href="https://codeforces.com/profile/Shahd_Ashraf_F" target="blank">
+<img " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahd_Ashraf_F " height="32" width="40" />
+</a>  
 
 
 
