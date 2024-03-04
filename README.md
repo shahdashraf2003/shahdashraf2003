@@ -1,6 +1,6 @@
 <h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->  Welcome To Shahd Ashraf's Profile! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=33FFF1&lines=Computer+Science+student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=007ACC&lines=Computer+Science+student;)](https://git.io/typing-svg)
 <br/>
 
 <img align='right' src="https://github.com/lauragift21/lauragift21/blob/f845d1d85cb0da735f65854d068dd16b9a447745/code.gif" width="400" >
@@ -47,19 +47,11 @@
 </a> 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=13&color=007ACC&lines=Thanks+for+visiting+my+profile,+see+you+next+time!;)](https://git.io/typing-svg)
 
 
-<!-- ### 🔗 Links
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shahd-ashraf-343333254)
-<a href="mailto:shahdashraf396@gmail.com><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
-<!-- ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-shahdashraf2003
-&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
