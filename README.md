@@ -31,20 +31,20 @@
 
 ### 🔗Contact Me
 <a href="https://www.linkedin.com/in/shahd-ashraf-343333254" target="_blank">
-  <img " alt="Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
+  <img " alt="Linkdin" width="36px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
 </a>
-<br>
-<a href="mailto:shahdashraf396@gmail.com" target="_blank">
-<img width="40"  height="50" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" alt="gmail"/>
-</a>
-<br>
+
 <a target="_blank" href="https://www.facebook.com/shahd.ashraf.967422">
-  <img  alt="anmolpant's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
+  <img  alt="anmolpant's Facebook" width="40px"  height="40px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
 </a>
-<br>
+
+
+<a href="mailto:shahdashraf396@gmail.com" target="_blank" >
+<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>
+</a>
 <a href="https://codeforces.com/profile/Shahd_Ashraf_F" target="_blank">
-<img " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahd_Ashraf_F " height="35" width="40" />
-</a>  
+<img " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahd_Ashraf_F " height="40" width="40" />
+</a> 
 
 
 
