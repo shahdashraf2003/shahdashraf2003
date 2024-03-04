@@ -7,7 +7,7 @@
 
 <h3>🫡 About Me</h3> 
 <h4> ⭐I'm Shahd Ashraf from Egypt . <br/><br/>
-     ⭐I am a student in the Faculty of Computers and Information,@ SCU. <br/><br/>
+     ⭐I am a student in the Faculty of Computers and Information, @ SCU. <br/><br/>
      ⭐I really enjoy learning Programming .<br/><br/>
      ⭐I always try to improve my programming skills  👩🏻‍💻 </h4>
 
