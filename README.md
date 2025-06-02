@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=007ACC&lines=Computer+Science+student;)](https://git.io/typing-svg)
 <br/>
 
-<img align='right' src="https://github.com/lauragift21/lauragift21/blob/f845d1d85cb0da735f65854d068dd16b9a447745/code.gif" width="400" >
+<img align='right' src="https://github.com/lauragift21/lauragift21/blob/f845d1d85cb0da735f65854d068dd16b9a447745/code.gif" width="390" >
 
 <h3>🫡 About Me</h3> 
 <h4> ⭐I'm Shahd Ashraf from Egypt . <br/><br/>
